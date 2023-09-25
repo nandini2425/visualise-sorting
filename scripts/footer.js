@@ -1,5 +1,5 @@
 // function([string1, string2],target id,[color1,color2])
-consoleText(["Made with Love by Nikita Asrani."], "text", [
+consoleText(["Made with Love by Nandini Varshney."], "text", [
   "tomato",
   "rebeccapurple",
   "lightblue",
